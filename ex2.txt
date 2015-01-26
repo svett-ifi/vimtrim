@@ -1,0 +1,23 @@
+1. [ j ] ned en linje
+2. [ d ]elete [ w ]ord for å slette public
+3. [ w ] for å gå til static
+4. [ dw ] for å slette static nummer 2
+5. gå ned
+6. [ F ]ind b
+7. [ Y ]ank [ w ]ord / kopier bunk
+8. [ 3j ] for å gå tre linjer ned
+9. [ f<space> ]
+10. [ ; ] for å gjenta f-kommandoen
+11. [ p ]aste ordet bunk som ble kopiert med [ y ]ank
+12. [ f ]ind ) og fyll inn strengen "dette er tekst"
+13. [ d ]elete [ i ]n [ ) ]
+14. kopier linjen
+15. [ f ] til fnuttene (eller mellom)
+16. [ c ]hange [ i ]n [ " ]
+17. [ o ]pen en ny linje
+18. skriv "return 2;"
+19. [ ? ] (søk bakover) void <Enter>
+20. [ c ]hange [ w ]ord og skriv inn "int"
+21. [ ? ] bunk <Enter>
+22. skriv inn "int tall ="
+23. lagre og lukk med [ :wq ]

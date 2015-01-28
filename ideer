@@ -1,0 +1,11 @@
+int a(int b, char c)
+{
+	printf("ytnfwytnwfyn\n");
+}
+
+// bytte om int a og char c
+// [ f ]ind i
+// [ d ]elete [ t ]il ,
+// word
+// visual delete word
+// tilbake og paste

@@ -1,4 +1,4 @@
-1. [i]nsert og skriv inn «public»
+1. [i]nsert og skriv inn «public »
 2. [esc]
 3. [f]ind {
 4. [r]eplace { med [

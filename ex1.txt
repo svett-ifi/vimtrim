@@ -3,9 +3,16 @@
 3. [r]eplace { med [
 4. Trykk 0 for å gå til start av linje
 5. j for å gå ned til int age
-6. [A]ppend et semikolon (;)
-7. j ned til String name, [A]ppend semikolon
-8. h og i og skriv inn navtet ditt
 9. Pakk koden i en klasse "Ex1"
 10. [ : ] [ w ]rite og enter for å lagre
 11. [ : ] [ q ]quit for å lukke vim
+
+1. [i]nsert og skriv inn «public»
+2. [esc]
+3. [r]eplace { med [
+4. Trykk 0 for å gå til start av linje
+5. j for å gå ned én linje x 2
+6. [A]ppend et semikolon (;)
+7. [j] ned til String name, [A]ppend semikolon
+8. [h] og i og skriv inn navtet ditt
+9. gg for å hoppe til starten av fila

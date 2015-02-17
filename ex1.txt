@@ -2,7 +2,7 @@
 2. [esc]
 3. [f]ind {
 4. [r]eplace { med [
-5. Trykk 0 for å gå til start av linje
+5. [0] for å gå til start av linje
 6. [j] for å gå ned én linje x 2
 7. [A]ppend et semikolon (;)
 8. [esc]
@@ -17,5 +17,21 @@
 17. [o] for å åpne linje _under_ linja du er på og skriv «}»
 18. [esc]
 19. [=gg] for å indentere alt
-20. [ : ] [ w ]rite og enter for å lagre
-21. [ : ] [ q ]quit for å lukke vim
+20. [:] [w]rite og enter for å lagre
+21. [:] [q]quit for å lukke vim
+
+Nye kommandoer:
+[i]nsert
+[f]ind
+[r]eplace
+[0] start av linje
+[j] ned
+[A]ppend på slutten av linje
+[h] venstre
+[gg] toppen av fil
+[G] bunn av fil
+[O]pen over
+[o]pen under
+[=] indentering
+[:w] write
+[:q] quit

@@ -1,6 +1,6 @@
-class Ex3 {
+class Ex2b {
 
-  // tips: bruk [ r ] for bytte en bokstav
+  //     v
   public itatic void main (String[] args) {
     str tall = 5;
     tall2 = 7

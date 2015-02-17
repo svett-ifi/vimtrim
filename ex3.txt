@@ -1,6 +1,6 @@
-1. skriv [ /private ]<ENTER> for Ã sÃkÃke forover etter strengen "private"
-2. [ cw ] sletter ordet, og du kan nÃ skrive inn strengen "public"
-3. [ n ] for Ã¥gÃ¥til neste sted hvor det staar "private"
-4. [ . ] (puktum) for aa gjenta forrige endring.
-5. [ n ] for Ã¥gÃ¥ til neste sted hvor det staar "private"
-6. [ . ] for Ã¥bytte ut siste instans av "private"
+1. skriv [ /private ]<ENTER> for å søke forover etter strengen «private»
+2. [ cw ] sletter ordet, og du kan nå skrive inn strengen «public»
+3. [ n ] for å gå til neste sted hvor det står «private»
+4. [ . ] (puktum) for å gjenta forrige endring.
+5. [ n ] for å gå til neste sted hvor det staar «private»
+6. [ . ] for å bytte ut siste instans av «private»

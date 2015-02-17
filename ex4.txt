@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+1. [/int a] eller [:6]
+2. [f]ind i
+4. [d]elete [t]il [,]
+5. [w]word for å komme fram til «String tekst»
+6. [v]isual [t]il [)] for å markere «String tekst»
+7. [p]aste for å lime det gamle ordet man slettet over det markerte
+8. [b]ack
+9. [b]ack
+7. [p]aste igjen!
+
+Nye kommandoer:
+[:num]
+[v]isual
+[p]aste
+=======
+1. skriv [ /private ]<ENTER> for � s�k�ke forover etter strengen "private"
+2. [ cw ] sletter ordet, og du kan n� skrive inn strengen "public"
+3. [ n ] for ågåtil neste sted hvor det staar "private"
+4. [ . ] (puktum) for aa gjenta forrige endring.
+5. [ n ] for ågå til neste sted hvor det staar "private"
+6. [ . ] for åbytte ut siste instans av "private"
+>>>>>>> cfa65bf89c03b8c1f44b85696ec4c009f9d28d98

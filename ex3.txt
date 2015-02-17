@@ -1,0 +1,6 @@
+1. skriv [ /private ]<ENTER> for √ s√k√ke forover etter strengen "private"
+2. [ cw ] sletter ordet, og du kan n√ skrive inn strengen "public"
+3. [ n ] for √•g√•til neste sted hvor det staar "private"
+4. [ . ] (puktum) for aa gjenta forrige endring.
+5. [ n ] for √•g√• til neste sted hvor det staar "private"
+6. [ . ] for √•bytte ut siste instans av "private"

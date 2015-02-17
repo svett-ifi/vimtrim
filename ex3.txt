@@ -1,6 +1,36 @@
-1. skriv [ /private ]<ENTER> for å søke forover etter strengen «private»
-2. [ cw ] sletter ordet, og du kan nå skrive inn strengen «public»
-3. [ n ] for å gå til neste sted hvor det står «private»
-4. [ . ] (puktum) for å gjenta forrige endring.
-5. [ n ] for å gå til neste sted hvor det staar «private»
-6. [ . ] for å bytte ut siste instans av «private»
+1.  skriv [ /private ]<ENTER> for å søke forover etter strengen «private»
+2.  [ cw ] sletter ordet, og du kan nå skrive inn strengen «public». Husk å trykke <ESC>
+3.  [ n ] for å gå til neste sted hvor det står «private»
+4.  [ . ] (puktum) for å gjenta forrige endring.
+5.  [ n ] for å gå til neste sted hvor det staar «private».
+6.  [ . ] for å bytte ut siste instans av «private».
+7.  [ V ]isual-line (stor v) markerer hele linjen.
+8.  Trykk [ j ] til hele metoden er markert.
+    Bruk [ k ] for å gå opp igjen hvis du gikk for langt.
+9.  [ y ]ank for å kopiere den markerte teksten.
+10. [ j ] til du kommer til linjen med den førte kommentaren (linje 28)
+11. [ p ]aste (lim inn) det du nettopp kopierte.
+12. [ w ] 3 ganger
+13. [ cw ] for å slette ordet "subtract". Skriv inn multiply.
+14. <ESC>
+15. Bruk hjkl-tastene for å gå til minus-tegnet som nå skal være på linje 33.
+16. [ r* ] for å bytte ut minus-tegnet med et gangetegn.
+17. Gå ned til den siste krøllparentesen med [ j ] (linje 37)
+18. [ o ] (bokstaven o) og <ESC> for å sette inn en tom linje.
+19. [ j ]
+20. [ p ] for å lime inn en gang til under den siste kommentaren
+21. [ w ] 3 ganger
+22. [ cw ] for å slette ordet "subtract". Skriv inn divide.
+23. <ESC>
+24. Gå ned til minustegnet på linje 44.
+25. Bytt ut minustegne med et deletegn.
+
+Oh happy days! Ferdig!
+
+[ :write ] eller shorthanden [ :w ] hvis du vil lagre
+[ :quit ] eller shorthanden [ :q ] når du vil lukke
+
+PS: Hvis du ikke lagret vil ikke Vim la deg lukke fila.
+    For å si til Vim at du vet hva du driver med,
+    kan du skrive
+    [ :q! ]

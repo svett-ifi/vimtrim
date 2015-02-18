@@ -1,0 +1,4 @@
+1. Download and run: ftp://ftp.vim.org/pub/vim/pc/gvim74.exe
+   NOTE: If installing on ifi, you have to change the installation folder to your home folder
+2. åpne gvim.exe
+3. Trykk : og skriv "edit $MYVIMRC"

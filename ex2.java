@@ -1,15 +1,11 @@
 class Ex2 {
+	public public static static void main(String[] args) {
+		bunk();
+	}
 
-  public public static static void main (String[] args) {
-    int tall = bunk();
-  }
-
-  static int bunk(){
-    System.out.println("dette er tekst");
-    System.out.println("her er tekst");
-    System.out.println("mer tekst");
-
-    return 2;
-  }
-
+	static void bunk() {
+		System.out.println("");
+		System.out.println("her er tekst");
+		System.out.println("mer tekst");
+	}
 }

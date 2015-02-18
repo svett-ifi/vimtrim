@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1. [/int a] eller [:6]
 2. [f]ind i
 4. [d]elete [t]il [,]
@@ -13,11 +12,3 @@ Nye kommandoer:
 [:num]
 [v]isual
 [p]aste
-=======
-1. skriv [ /private ]<ENTER> for Ã sÃkÃke forover etter strengen "private"
-2. [ cw ] sletter ordet, og du kan nÃ skrive inn strengen "public"
-3. [ n ] for Ã¥gÃ¥til neste sted hvor det staar "private"
-4. [ . ] (puktum) for aa gjenta forrige endring.
-5. [ n ] for Ã¥gÃ¥ til neste sted hvor det staar "private"
-6. [ . ] for Ã¥bytte ut siste instans av "private"
->>>>>>> cfa65bf89c03b8c1f44b85696ec4c009f9d28d98

@@ -1,5 +1,5 @@
 //         v--- her mangler det noe!
-class ex1c 
+class ex1c
   //           v
   private staticc int foo = -1;
 

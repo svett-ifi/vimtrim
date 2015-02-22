@@ -6,7 +6,7 @@
 6. [/bunk] for å søke framover etter «bunk»
 7. [n]ext for neste treff
 8. [j]
-9. [f]ind " 
+9. [f]ind "
 10. [a]ppend en fin tekst inni ""
 11. [esc]
 12. [j]

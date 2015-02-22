@@ -24,9 +24,8 @@
 - Ex-kommandoer ( :substitute, :global )
 
 
-
 ### Resurser
-vimdocsa ! ( :help )  
-vim.wikia.com  
-vimgolf.com  
-Practical Vim - Edit Text at the Speed of Thought - D. Neil (Pragmatic, 2012)  
+vimdocsa ! ( :help )
+vim.wikia.com
+vimgolf.com
+Practical Vim - Edit Text at the Speed of Thought - D. Neil (Pragmatic, 2012)

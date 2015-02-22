@@ -16,7 +16,7 @@ class ex3 {
 	}
 
 	private static int subtract(int[] tall) {
-		int sum = 0;	
+		int sum = 0;
 
 		for(int i=0; i<tall.length; i++) {
 			sum -= tall[i];

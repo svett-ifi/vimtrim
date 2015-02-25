@@ -29,7 +29,7 @@
 29. [esc]
 30. lagre og lukk med [:wq]
 
-Kommandoer:
+Nye kommandoer:
 [d]elete
 [c]hange
 [a]ppend

@@ -37,3 +37,9 @@ PS: Hvis du ikke lagret vil ikke Vim la deg lukke fila.
     For å si til Vim at du vet hva du driver med,
     kan du skrive
     [ :q! ]
+
+
+Nye kommandoer:
+[ . ] repeter forrige endring
+[ V ]isual line. Linjevis markering
+[ p ] lim inn

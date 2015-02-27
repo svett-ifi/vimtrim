@@ -2,7 +2,7 @@ public class ex1 {
 
   static final int CODE;
 
-  public static void main (String[] args) {
+  public  static void main (String[] args) {
 
     boolean allGood = CODE == 123;
     

@@ -1,0 +1,35 @@
+[ j ] 2 ganger
+[ $ ] for å gå til slutten av linjen
+[ i ]nsert, sett inn teksten " = 123;"
+[ esc ]
+
+[ ^ ] (hustak / caret) for å gå til første tegn på linjen
+[ dw ] delete word
+[ x ] for å slette tegnet under markøren
+
+// Dette klarer vi å gjøre bedre!
+[ u ] to ganger for å angre til det står "protected" igjen.
+[ daw ] delete a word, for å slette et ord
+
+[ :h text-objects ] for å få opp hjelp om tekstobjekter
+[ CTRL-U ] og [ CTRL-D ] skroller opp og ned en halv side
+Les om tekstobjektene "aw" og "iw"
+[ :q ] for å lukke hjelpen
+
+[ j ] to ganger
+[ . ] for å gjenta siste "daw"-kommando
+
+[ /ret ] og trykk <ENTER> for å søke etter "ret"
+[ :noh ] og trykk <ENTER> for å skru av higlighting (noh = nohlsearch)
+[ fk ] finn k
+[ rg ] replace med g
+[ ; ] repeter finn-kommandoen
+[ . ] gjenta forrige replace
+
+Nye kommandoer:
+[ $ ] for å gå til slutten av linjen
+[ ^ ] (hustak / caret) for å gå til første tegn på linjen
+[ :h <søkestreng> ] for å bruke den innebygde manualen.
+[ CTRL-U ] skroll opp en halv side
+[ CTRL-D ] skroll ned en halv side
+[ ; ] repeter forrige f-kommando

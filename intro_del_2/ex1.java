@@ -1,17 +1,17 @@
 public class ex1 {
 
-  protected static final int CODE = 123;
+  static final int CODE;
 
   public static void main (String[] args) {
 
-    boolean allGood = true;
+    boolean allGood = CODE == 123;
     
     if ( allGood ) {
       openSafe(CODE);
     }
   }
 
-  private static void openSafe(int code) {
-  
+  private static String openSafe(int code) {
+      return "kull og krønne skoger";
   }
 }

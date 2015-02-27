@@ -33,3 +33,12 @@ Søk:
 Kolon-kommandoer:
 [ :w ]rite
 [ :q ]uit
+
+### Intro del 2
+Bevegelse:
+[ $ ] for å gå til slutten av linjen
+[ ^ ] (hustak / caret) for å gå til første tegn på linjen
+[ :h <søkestreng> ] for å bruke den innebygde manualen.
+[ CTRL-U ] skroll opp en halv side
+[ CTRL-D ] skroll ned en halv side
+[ ; ] repeter forrige f-kommando

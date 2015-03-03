@@ -8,10 +8,24 @@ class ex1b {
     public static boolean truth = true; menialledager
 
     private String the(int cake){
-      if(cake == 43) {
+      if(cake == 42) {
         return "is a lie";
       } else {
         return "nothing to see here. move along."
       }
     }
+
+    // Nedover her er det mye galt. Slå deg løs!
+    void iRobot(boolean beep) {
+       if beep == true
+         beep(true);
+
+    }
+
+    void beep(loud){
+      if loud == true
+        System.out.print("beep beep.")
+
+      else
+        System.out.println("BEEPBEEP!!");
 }

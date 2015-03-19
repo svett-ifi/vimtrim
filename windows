@@ -3,3 +3,9 @@
    your home folder or somewhere else you have permission to install it
 2. Open gvim.exe
 3. Write :edit $MYVIMRC to edit your vim resource file
+
+Eller:
+
+1. Installer [babun](https://babun.github.io/)
+2. Start babun.
+3. Nyt zsh og vim 7.4 i cygwin miljø -- dvs alle filer på windows filsystemet er tilgjengelig.

@@ -1,0 +1,45 @@
+1.  skriv [ /private ]<ENTER> for å søke forover etter strengen «private».
+2.  [ cw ] sletter ordet, og du kan nå skrive inn strengen «public». Husk å trykke <ESC>.
+3.  [ n ] for å gå til neste sted hvor det står «private».
+4.  [ . ] (puktum) for å gjenta forrige endring.
+5.  [ n ] for å gå til neste sted hvor det staar «private».
+6.  [ . ] for å bytte ut siste instans av «private».
+7.  [ V ]isual-line (stor v) markerer hele linjen.
+8.  Trykk [ j ] til hele metoden er markert.
+    Bruk [ k ] for å gå opp igjen hvis du gikk for langt
+9.  [ y ]ank for å kopiere den markerte teksten.
+10. [ /Kopier ] for å gå til linjen med kommentar.
+11. [ p ]aste (lim inn) det du nettopp kopierte.
+12. [ n ] for å gå til neste linje med kommentar.
+13. [ p ]aste igjen.
+14. [ N ] to ganger for å komme tilbake igjen.
+15. [ j ] for å gå ned.
+16. [ w ] 3 ganger.
+17. [ cw ] for å slette ordet "subtract". Skriv inn multiply.
+18. <ESC>.
+19. Bruk hjkl-tastene for å gå til minus-tegnet som nå skal være på linje 33.
+20. [ r* ] for å bytte ut minus-tegnet med et gangetegn.
+21. Gå ned til den siste krøllparentesen med [ j ] (linje 37).
+22. [ o ] (bokstaven o) og <ESC> for å sette inn en tom linje.
+23. [ j ] to ganger.
+24. [ w ] 3 ganger.
+25. [ cw ] for å slette ordet "subtract". Skriv inn divide.
+26. <ESC>.
+27. Gå ned til minustegnet på linje 44.
+28. Bytt ut minustegne med et deletegn.
+
+Oh happy days! Ferdig!
+
+[ :write ] eller shorthanden [ :w ] hvis du vil lagre
+[ :quit ] eller shorthanden [ :q ] når du vil lukke
+
+PS: Hvis du ikke lagret vil ikke Vim la deg lukke fila.
+    For å si til Vim at du vet hva du driver med,
+    kan du skrive
+    [ :q! ]
+
+
+Nye kommandoer:
+[ . ] repeter forrige endring
+[ V ]isual line. Linjevis markering
+[ p ] lim inn

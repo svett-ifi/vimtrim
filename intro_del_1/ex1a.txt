@@ -8,17 +8,17 @@
 8. [esc]
 9. [j] ned til String name, [A]ppend semikolon
 10. [esc]
-11. [h] og i og skriv inn navnet ditt
+11. [h] og [i] og skriv inn navnet ditt
 12. [esc]
 13. [gg] for å hoppe til starten av fila
-14. [O] for å åpne linje _over_ linja du er på og skriv «class ex1 {»
+14. [O] (stor o) for å åpne linje _over_ linja du er på og skriv «class ex1a {»
 15. [esc]
 16. [G] for å gå til slutten av fila
 17. [o] for å åpne linje _under_ linja du er på og skriv «}»
 18. [esc]
 19. [=gg] for å indentere alt
-20. [:] [w]rite og enter for å lagre
-21. [:] [q]quit for å lukke vim
+20. [:w]rite og enter for å lagre
+21. [:q]uit for å lukke vim
 
 Nye kommandoer:
 [i]nsert

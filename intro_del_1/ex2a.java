@@ -1,4 +1,4 @@
-class Ex2 {
+class Ex2a {
 	public public static static void main(String[] args) {
 		bunk();
 	}

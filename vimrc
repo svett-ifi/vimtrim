@@ -31,7 +31,7 @@ set expandtab                  " insert spaces when indenting with tabs
 set backspace=indent,eol,start " Allow backspacing of these
 set splitbelow splitright      " Open new splits below and to the right
 
-colorscheme default            " set your colorscheme here!
+colorscheme jellybeans            " set your colorscheme here!
 
 
 " There are a lot of plugins available for Vim, to
@@ -68,14 +68,14 @@ Plug 'nanotech/jellybeans.vim'      " Jellybeans colorscheme
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " STATIC ANALYSIS
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Plug 'scrooloose/syntastic'         " Integrates with your syntax- {{{
+" Plug 'scrooloose/syntastic'         " Integrates with your syntax- {{{
                                     " checkers to lint your code.
 
     " These are some example options you may, or may not want to set.
     " See the github repository of syntastic, or
     " :h syntastic for more info.
-    let g:syntastic_enable_signs=1              " mark syntax errors
-    let g:syntastic_c_compiler_options="-g -Wall -Wextra -std=gnu99 -Wconversion"
+    " let g:syntastic_enable_signs=1              " mark syntax errors
+    " let g:syntastic_c_compiler_options="-g -Wall -Wextra -std=gnu99 -Wconversion"
     "let g:syntastic_auto_jump=0                 " automatically jump to error when saving
     "let g:syntastic_python_python_exec = '/usr/local/bin/python2.7'
     "let g:syntastic_check_on_wq = 0

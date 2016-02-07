@@ -1,8 +1,6 @@
-class ex1a {
-    public static void main (String[] args) {
+static void main (String{] args) {
 
-        int age = 4;
-        String name = "Vim er kult";
+    int age = 4
+    String name = ""
 
-    }
 }

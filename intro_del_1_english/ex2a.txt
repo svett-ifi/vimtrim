@@ -1,0 +1,50 @@
+1. [j] down a line
+
+2. [w]ord, move to start of first word
+3. [dw] (delete word) to delete «public»
+
+4. [w] to move to "static"
+5. [dw] to delete the "static" keyword
+
+6. [/bunk] to search for  «bunk»
+7. [n]ext, move to next match
+
+8. [j]
+9. [f]ind "
+10. [a]ppend some text "" (small "a" is the same as "l" and "i")
+11. [esc]
+
+12. [j]
+13. [c]hange [i]n ["]
+14. Write something
+15. [esc]
+
+16. [j]
+17. [b]ack
+18. [c]hange [i]n ( 
+19. write an integer
+20. [esc]
+
+21. [o]pen a line below println
+22. write «return 2;»
+23. [esc]
+
+24. [?] void <Enter> (search backwards)
+25. [c]hange [w]ord and type "int"
+26. [esc]
+
+27. [?] bunk <Enter>
+28. [i] int tall =
+29. [esc]
+
+30. save and quit with [:wq]
+
+New commands:
+[d]elete
+[c]hange
+[a]ppend
+[/] Search
+[?] Backwards search
+[n]ext
+[b]ack
+[w]ord

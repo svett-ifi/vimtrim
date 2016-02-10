@@ -1,0 +1,54 @@
+1. [i]nsert and type «public »
+2. [esc] to exit insert mode
+
+3. [f]ind {
+4. [r]eplace { with [
+
+5. [0] to move the cursor to the far left of the screen
+6. [j] two times to move the cursor down two lines
+
+7. [A]ppend a semicolon (;)
+8. [esc]
+
+9. [j] down to "String name", [A]ppend semicolon
+10. [esc]
+
+11. [h] and [i] and write your name
+12. [esc]
+
+13. [gg] to jump to start of file
+14. [O] (big o) to “open” a line _above_ the line your cursor is on, and write «class ex1a {»
+15. [esc]
+
+16. [G] to jump to end of file
+17. [o] to “open” a new line _below_ the line you cursor is on, and write «}»
+18. [esc]
+
+19. [=gg] to re-indent from your cursor position to the start of the file
+          (`=` is the re-indent operator, and `gg` is a motion)
+
+20. [:w]rite and <ENTER> to save
+21. [:q]uit, to er.. quit.
+
+New commands:
+[i]nsert
+[f]ind
+[r]eplace
+[0] Start of line
+[j] Down
+[A]ppend at end of line
+[h] Left
+[gg] Go to start of document
+[G] Go to end of document
+[O]pen Over
+[o]pen below
+[=] Re-indent
+[:w] Write
+[:q] Quit
+
+Se hjelpesidene til Vim for å lære hva forskjellige ting gjør om det ikke var
+helt klart fra eksempelet.
+
+Consult the Vim help pages to learn about what the different keys do.
+
+Like this: ":h j" to read about what "j" does.

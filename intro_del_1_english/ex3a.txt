@@ -1,0 +1,62 @@
+1.  [ /private ]<ENTER> for å søke forover etter strengen «private».
+2.  [ cw ] sletter ordet, og du kan nå skrive inn strengen «public». Husk å trykke <ESC>.
+2.  [ cw ] (change word). Notice you're in insert mode. Now write «public».
+    Remember to <ESC>.
+
+3.  [ n ] to move to the next match for «private»
+4.  [ . ] to repeat the previous change.
+5.  [ n ] to move to the next match for «private»
+6.  [ . ] to change the last instance of «private».
+
+7.  [ V ]isual-line (bin v) selects the entire line.
+8.  Press [ j ] until the entire method is selected.
+    Press [ k ] to move the cursor upwards if you go to far.
+9.  [ y ]ank to copy the selected text.
+
+10. [ /Copy ]<ENTER> to search for the text "Copy"
+11. [ p ]aste the text you yanked/copied.
+
+12. [ n ] to move to the next match.
+13. [ p ]aste again.
+
+14. [ N ] twice to get back. (N is the reverse of n)
+15. [ j ] to move down.
+16. [ w ] 3 times.
+17. [ cw ] to change the word "subtract". Write "multiply".
+18. <ESC>.
+
+19. Use h, k, l and j to move down to the minus symbol on line 33.
+20. [ r* ] with the cursor on the minus sign, to replace it with *.
+
+21. Gå ned til den siste krøllparentesen ( } ) med [ j ] (linje 37).
+21. Move down to the last curly-brace ( } ) with [ j ].
+22. [ o ] (the letter o) and <ESC> to create a newline.
+
+23. [ j ] twice.
+24. [ w ] three times.
+25. [ cw ] to change the word "subtract". Type "divide".
+26. <ESC>.
+
+27. Move to the minus symbol on line 44.
+28. Bytt ut minustegnet med et deletegn.
+28. Change the minus symbol to a divide sign ( / )
+
+Oh happy days! We are done!
+
+[ :write ] or the short variant [ :w ] if you want to save the changes.
+[ :quit ] or [ :q ] when you want to quit.
+
+PS: Hvis du ikke lagret vil ikke Vim la deg lukke fila.
+    For å si til Vim at du vet hva du driver med,
+    kan du skrive
+    [ :q! ]
+
+PS: If you didn't savet, Vim won't let you close the file.
+    To tell Vim that you know what you're doing,
+    you can write [ :q! ]
+
+
+Nye kommandoer:
+[ . ] Repeat last change
+[ V ]isual line. Start visual mode linewise.
+[ p ]aste

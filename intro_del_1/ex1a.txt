@@ -1,22 +1,31 @@
 1. [i]nsert og skriv inn «public »
-2. [esc]
+2. [esc] for å gå ut av insert-mode
+
 3. [f]ind {
 4. [r]eplace { med [
+
 5. [0] for å gå til start av linje
 6. [j] for å gå ned én linje x 2
+
 7. [A]ppend et semikolon (;)
 8. [esc]
+
 9. [j] ned til String name, [A]ppend semikolon
 10. [esc]
+
 11. [h] og [i] og skriv inn navnet ditt
 12. [esc]
+
 13. [gg] for å hoppe til starten av fila
 14. [O] (stor o) for å åpne linje _over_ linja du er på og skriv «class ex1a {»
 15. [esc]
+
 16. [G] for å gå til slutten av fila
 17. [o] for å åpne linje _under_ linja du er på og skriv «}»
 18. [esc]
+
 19. [=gg] for å indentere alt
+
 20. [:w]rite og enter for å lagre
 21. [:q]uit for å lukke vim
 
@@ -35,3 +44,8 @@ Nye kommandoer:
 [=] indentering
 [:w] write
 [:q] quit
+
+Se hjelpesidene til Vim for å lære hva forskjellige ting gjør om det ikke var
+helt klart fra eksempelet.
+
+For eksempel ":h j" for å lese om hva "j" gjør.

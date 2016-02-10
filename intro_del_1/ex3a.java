@@ -1,4 +1,4 @@
-class ex3 {
+class ex3a {
 	private static void main(String[] args) {
 		int[] tall = {1,2,3,4,5};
 

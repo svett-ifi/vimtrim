@@ -1,32 +1,42 @@
 1. [j] ned en linje
+
 2. [w]ord for å gå fram til første ordet
-3. [w]ord for å slette public
+3. [dw] (delete word) for å slette «public»
+
 4. [w] for å gå til static
 5. [dw] for å slette static nummer 2
+
 6. [/bunk] for å søke framover etter «bunk»
 7. [n]ext for neste treff
+
 8. [j]
 9. [f]ind "
-10. [a]ppend en fin tekst inni ""
+10. [a]ppend en fin tekst inni "" (liten "a" er det samme som "l" og "i")
 11. [esc]
+
 12. [j]
-13. [c]hange [i]n " (endrer alt inni "")
+13. [c]hange [i]n ["] (endrer alt inni "")
 14. skriv inn mer fin tekst
 15. [esc]
+
 16. [j]
 17. [b]ack
 18. [c]hange [i]n ( (endrer alt inni ())
 19. skriv inn et tall
 20. [esc]
+
 21. [o]pen linje under println
 22. skriv «return 2;»
 23. [esc]
-24. [?] (søk bakover) void <Enter>
+
+24. [?] void <Enter> (søk bakover)
 25. [c]hange [w]ord og skriv inn "int"
 26. [esc]
+
 27. [?] bunk <Enter>
-28. skriv inn «int tall =»
+28. [i] int tall =
 29. [esc]
+
 30. lagre og lukk med [:wq]
 
 Nye kommandoer:

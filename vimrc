@@ -31,7 +31,7 @@ set expandtab                  " insert spaces when indenting with tabs
 set backspace=indent,eol,start " Allow backspacing of these
 set splitbelow splitright      " Open new splits below and to the right
 
-colorscheme jellybeans            " set your colorscheme here!
+colorscheme default            " set your colorscheme here!
 
 
 " There are a lot of plugins available for Vim, to

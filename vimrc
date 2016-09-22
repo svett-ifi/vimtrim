@@ -31,7 +31,7 @@ set expandtab                  " insert spaces when indenting with tabs
 set backspace=indent,eol,start " Allow backspacing of these
 set splitbelow splitright      " Open new splits below and to the right
 
-colorscheme gruvbox            " set your colorscheme here!
+colorscheme default            " set your colorscheme here!
 
 " Try these options if you have issues with colors in the terminal
 " set t_ut=

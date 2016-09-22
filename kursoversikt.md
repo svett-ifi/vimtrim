@@ -48,7 +48,7 @@ Dette er en oversikt over hvilke deler av Vim som er nevnt i de forskjellige opp
 [ CTRL-D ] skroll ned en halv side  
 
 #### Andre:  
-[ :h <søkestreng> ] for å bruke den innebygde manualen.  
+[ :h `søkestreng` ] for å bruke den innebygde manualen.  
 
 Eksempler:  
 *Normal mode*  

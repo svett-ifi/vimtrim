@@ -1,7 +1,7 @@
 Dette er en oversikt over hvilke deler av Vim som er nevnt i de forskjellige oppgavegruppene.
 
 ### Intro del 1
-Operatorer:
+#### Operatorer:
 [ i ]nsert  
 [ A ]ppend på slutten av linje  
 [ r ]eplace  
@@ -15,7 +15,7 @@ Operatorer:
 [ V ]isual line. Linjevis markering  
 [ p ] lim inn  
 
-Bevegelse:
+#### Bevegelse:
 [ j ] ned  
 [ h ] venstre  
 [ b ]ack  
@@ -24,30 +24,30 @@ Bevegelse:
 [ gg ] toppen av fil  
 [ G ] bunn av fil  
 
-Søk:
+#### Søk:
 [ f ]ind  
 [ / ] søk forover  
 [ ? ] søk bakover  
 [ n ]ext. Repeter forrige søk  
 
-Kolon-kommandoer:
+#### Kolon-kommandoer:
 [ :w ]rite  
 [ :q ]uit  
 
 ### Intro del 2
-Bevegelse:  
+#### Bevegelse:  
 [ $ ] gå til slutten av linjen  
 [ ^ ] (hustak / caret) gå til første tegn på linjen  
 
-Søk:  
+#### Søk:  
 [ ; ] repeter forrige f- eller t-kommando  
 [ , ] repeter forrige f- eller t-kommando baklengs  
 
-Skrolling:  
+#### Skrolling:  
 [ CTRL-U ] skroll opp en halv side  
 [ CTRL-D ] skroll ned en halv side  
 
-Andre:  
+#### Andre:  
 [ :h <søkestreng> ] for å bruke den innebygde manualen.  
 
 Eksempler:  

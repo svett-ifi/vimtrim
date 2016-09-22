@@ -31,7 +31,13 @@ set expandtab                  " insert spaces when indenting with tabs
 set backspace=indent,eol,start " Allow backspacing of these
 set splitbelow splitright      " Open new splits below and to the right
 
-colorscheme default            " set your colorscheme here!
+colorscheme gruvbox            " set your colorscheme here!
+set t_ut=
+set t_Co=256
+let base16colorspace=256
+let g:gruvbox_contrast_dark="hard"
+set background=dark
+
 
 
 " There are a lot of plugins available for Vim, to
@@ -63,7 +69,8 @@ call plug#begin('~/.vim/plugged')
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " COLORSCHEMES
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Plug 'nanotech/jellybeans.vim'      " Jellybeans colorscheme
+Plug 'morhetz/gruvbox'              " Gruvbox colorscheme
+
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " STATIC ANALYSIS

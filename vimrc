@@ -32,11 +32,15 @@ set backspace=indent,eol,start " Allow backspacing of these
 set splitbelow splitright      " Open new splits below and to the right
 
 colorscheme gruvbox            " set your colorscheme here!
-set t_ut=
-set t_Co=256
-let base16colorspace=256
-let g:gruvbox_contrast_dark="hard"
-set background=dark
+
+" Try these options if you have issues with colors in the terminal
+" set t_ut=
+" set t_Co=256
+
+" Colorscheme configuration
+" let base16colorspace=256
+" let g:gruvbox_contrast_dark="hard"
+" set background=dark
 
 
 
@@ -69,7 +73,8 @@ call plug#begin('~/.vim/plugged')
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " COLORSCHEMES
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Plug 'morhetz/gruvbox'              " Gruvbox colorscheme
+" This won't install on ifi :(
+" Plug 'morhetz/gruvbox'              " Gruvbox colorscheme
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

@@ -33,6 +33,7 @@ Dette er en oversikt over hvilke deler av Vim som er nevnt i de forskjellige opp
 #### Kolon-kommandoer:
 [ :w ]rite  
 [ :q ]uit  
+[ :e ]dit
 
 ### Intro del 2
 #### Bevegelse:  
@@ -47,7 +48,8 @@ Dette er en oversikt over hvilke deler av Vim som er nevnt i de forskjellige opp
 [ CTRL-U ] skroll opp en halv side  
 [ CTRL-D ] skroll ned en halv side  
 
-#### Andre:  
+### Andre:  
+#### Manualen  
 [ :h `søkestreng` ] for å bruke den innebygde manualen.  
 
 Eksempler:  
@@ -60,3 +62,10 @@ Eksempler:
 
 *Kolon-kommandoer*  
 [ :h :s ]  
+
+#### Vindunavigering
+[ ctrl-w w ] gå til neste vindu
+[ ctrl-w h ] gå til neste vindu til venstre ( virker også med *j*, *k* og *l*)
+[ ctrl-w H ] flytt vindu til venstre ( virker også med *J*, *K* og *L*)
+[ ctrl-w s ] del/splitt vindu horisontalt
+[ ctrl-w v ] del/splitt vindu vertikalt

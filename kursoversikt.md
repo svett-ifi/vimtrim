@@ -40,7 +40,8 @@ Bevegelse:
 [ ^ ] (hustak / caret) gå til første tegn på linjen  
 
 Søk:  
-[ ; ] repeter forrige f-kommando  
+[ ; ] repeter forrige f- eller t-kommando  
+[ , ] repeter forrige f- eller t-kommando baklengs  
 
 Skrolling:  
 [ CTRL-U ] skroll opp en halv side  
@@ -49,3 +50,13 @@ Skrolling:
 Andre:  
 [ :h <søkestreng> ] for å bruke den innebygde manualen.  
 
+Eksempler:  
+*Normal mode*  
+[ :h d ] for å lese om d(elete)-kommandoen  
+[ :h ctrl-d ]  
+
+*Insert mode*  
+[ :h i_ctrl-t ]  
+
+*Kolon-kommandoer*  
+[ :h :s ]  
